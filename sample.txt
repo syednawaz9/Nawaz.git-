@@ -1,0 +1,5 @@
+This is a sample Git and git_hub
+Git commands
+git init
+git status
+git add .
