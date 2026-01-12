@@ -4,3 +4,4 @@ git init
 git status
 git add .
 git commmit -m "<text>"
+git --oneline 
